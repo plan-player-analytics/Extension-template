@@ -56,7 +56,7 @@
         <dependency> <!-- Plan API -->
             <groupId>com.djrapitops</groupId>
             <artifactId>Plan-api</artifactId>
-            <version>5.0-R0.3</version>
+            <version>5.1-R0.2</version>
             <scope>provided</scope>
         </dependency>
 
