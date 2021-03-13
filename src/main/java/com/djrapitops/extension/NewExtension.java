@@ -1,5 +1,5 @@
 /*
-    Copyright(c) 2019 Risto Lahtela (Rsl1122)
+    Copyright(c) 2021 AuroraLS3
 
     The MIT License(MIT)
 
@@ -28,9 +28,9 @@ import com.djrapitops.plan.extension.icon.Color;
 import com.djrapitops.plan.extension.icon.Family;
 
 /**
- * Template for new DataExtension.
+ * DataExtension.
  *
- * @author Rsl1122
+ * @author AuroraLS3
  */
 @PluginInfo(name = "", iconName = "", iconFamily = Family.SOLID, color = Color.NONE)
 public class NewExtension implements DataExtension {
